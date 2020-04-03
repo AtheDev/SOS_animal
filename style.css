@@ -1,0 +1,14 @@
+@media only screen and (max-device-width: 500px){
+	.petit{
+		font-size: xx-large;
+	}
+}
+
+@media only screen and (max-device-width: 350px){
+	.petit{
+		font-size: large;
+	}
+}
+
+
+.card
