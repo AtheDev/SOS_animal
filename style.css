@@ -11,4 +11,19 @@
 }
 
 
-.card
+@media only screen and (max-device-width: 1000px){
+	.col-6{
+		padding: 0 5px;
+		min-width: 250px;
+	}
+	.row{
+		justify-content: center;
+	}
+	.col-md-4{
+		display: flex;
+	}
+	.card-img{
+		margin: auto;
+	}
+}
+
